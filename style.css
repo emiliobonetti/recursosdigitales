@@ -24,7 +24,8 @@ H2{
     float: left;
 }
 
-p{
+p{ 
+    color: blue
     font-family: Verdana;
     text-align: left;
     width: 70%;
